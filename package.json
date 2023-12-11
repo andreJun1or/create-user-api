@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "dotenv": "^16.3.1",
-    "fastify": "^4.24.3"
+    "fastify": "^4.24.3",
+    "http-status-codes": "^2.3.0"
   }
 }
